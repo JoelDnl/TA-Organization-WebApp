@@ -22,3 +22,6 @@ Update the database connection settings in db_connection.php with your credentia
 ## Usage
 Access the main menu (index.php) through your web browser.
 Navigate through the application using the provided interface to manage TAs and course offerings.
+
+## Credits:
+The teaching Assistant Management System was coded and designed by Joel Daniel.
